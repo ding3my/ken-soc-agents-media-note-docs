@@ -1,0 +1,5 @@
+* 历史
+  Unreleased
+* 正文
+- 洞识论文是你自己对任何主题的思考。 p13 2017-10-16
+- https://en.wikipedia.org/wiki/Insight
