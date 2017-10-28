@@ -1,5 +1,11 @@
 * 历史
   Unreleased
+* 序言
+* 参考
+- http://www.gushiwen.org/guwen/lunyu.aspx
+- http://www.ldbj.com/lunyu/lunyuquanwen.htm
 * 正文
-** 为政篇
+** 2 为政
 - 君子不器。 http://so.gushiwen.org/guwen/bookv_20.aspx 2017-10-17
+** 7 述而
+- 君子坦荡荡，小人长戚戚。 http://so.gushiwen.org/guwen/bookv_25.aspx 2017-10-25
